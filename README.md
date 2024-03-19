@@ -44,9 +44,9 @@ WHERE (job_title_short = 'Data Analyst'OR job_title_short = 'Data Scientist' OR 
 ORDER BY salary_year_avg DESC
 ```
 Here's a further breakdown of the results.
-![Highest Paying Roles](assets\highest_paid_jobs.png)
+![Highest Paying Roles](project_sql\assets\highest_paid_jobs.png)
 
-![Dist of Salary](assets\dist_of_salary.png)
+![Dist of Salary](project_sql\assets\dist_of_salary.png)
 
 - The highest paying roles tend to belong to Senior Data Scientists
 - The majority of roles offer salaries below 80,000 pounds
@@ -55,7 +55,7 @@ Here's a further breakdown of the results.
 
 ### Where are the job postings
 I also wanted to understand where the majority of jobs are being posted. Using the same query above I use python to analyze what sites are being used the more
-![Job postings](assets\websites_to_use.png)
+![Job postings](project_sql\assets\websites_to_use.png)
 
 ### What skills are indemand for data analysts vs data scientists?
 The query below allowed me to identify what the necessary skills are for data analysts in the UK. I also used this query to find data analyst positions. I specified a salary range that I would attractive. 
