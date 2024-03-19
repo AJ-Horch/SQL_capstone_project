@@ -9,7 +9,7 @@ I'm currently looking for my first job in data after graduating. SQL is a necess
 
 The data was collected and provided by [Luke Barousse](https://www.youtube.com/watch?v=7mz73uXD9DA&t=12697s).
 
-The questions I wanted to answer through my qu
+The questions I wanted to answer through my queries
 
 ### These are the questions I answered 
 1. What are the top-paying data analyst jobs?
@@ -45,7 +45,9 @@ ORDER BY salary_year_avg DESC
 ```
 Here's a further breakdown of the results.
 ![Highest Paying Roles](assets\highest_paid_jobs.png)
+
 ![Dist of Salary](assets\dist_of_salary.png)
+
 - The highest paying roles tend to belong to Senior Data Scientists
 - The majority of roles offer salaries below 80,000 pounds
 
