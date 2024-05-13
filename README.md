@@ -1,5 +1,5 @@
 # Introduction
-Exploring the data job market! Focusing on data analyst and scientist roles, this project explores top-paying jobs, in-demand skills and wehere high demand meets high salary in data analytics. 
+Exploring the data job market! Focusing on data analyst and scientist roles, this project explores top-paying jobs, in-demand skills and where high demand meets high salary in data analytics. 
 
 See queries here: [project_sql_folder](/project_sql/)
 
